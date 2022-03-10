@@ -1,0 +1,20 @@
+.oddly-pink,
+.cool-class {
+  background-color: darksalmon;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.cool-class {
+  font-size: 24px;
+}
+
+#big-blue {
+  color: blue;
+  font-size: 36px;
+}
+
+#super-green {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
